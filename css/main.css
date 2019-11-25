@@ -54,3 +54,13 @@
     flex-direction: row;
     justify-content: space-around;
 }
+
+.pizza-order .price{
+  writing-mode: vertical-rl;
+  background: linear-gradient(rgb(243, 254, 33),#90f954);
+  text-align: center;
+  padding: 10px;
+  letter-spacing: 2px;
+  border-radius: 0 20px 20px 0;
+  font-size: 21px;
+}
